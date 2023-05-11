@@ -1,4 +1,5 @@
 //https://www.geeksforgeeks.org/minimum-halls-required-for-class-scheduling/
+https://www.codingninjas.com/codestudio/problems/meeting-room-ii_893289
 
 int minHalls(int lectures[][2], int n)
 {
